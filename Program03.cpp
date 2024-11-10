@@ -24,7 +24,7 @@ void displayStudentDetails(const Student &s) {
 }
 
 int main() {
-    Student student("John Doe", 20, "Computer Science", "Data Structures");
+    Student student("Gaurish Uniyal", 20, "Computer Science", "Data Structures");
 
     displayStudentDetails(student);
 
